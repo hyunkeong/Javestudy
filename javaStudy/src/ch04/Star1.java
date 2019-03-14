@@ -1,0 +1,26 @@
+package ch04;
+
+public class Star1 {
+	public static void main(String[] args) {
+		for (int a = 1; a <= 5; a++) {
+			for (int b=5; b <=a; b++) {
+				// ¿·À¸·Î Ãâ·Â
+				System.out.println("¢½");
+		
+		
+				System.out.println();
+		
+		
+		
+	}
+//			for (int a = 1; a <=5; a++) {
+//				for(int b =1; b <= a; b++) {
+//				// ¿·À¸·Î Ãâ·Â
+//				System.out.print("¢½");
+//		
+//	}
+//		System.out.println(); //ÁÙ¹Ù²Þ
+//		
+	 }
+  }
+}
